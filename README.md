@@ -32,5 +32,9 @@ This respository contains following files-
 ```
   
   ## Results
-  ### Sample Image
-  ![Screenshot](https://github.com/Rtannu/DigitRecognition/blob/master/Screenshot%20from%202018-07-08%2016:15:01.png)
+  
+  ### Sample Image of input
+  ![Screenshot](https://github.com/Rtannu/objectDetection/blob/master/images/example_01.jpg)
+  
+  ### Sample Image of output
+  ![Screenshot](https://github.com/Rtannu/objectDetection/blob/master/output.png)
